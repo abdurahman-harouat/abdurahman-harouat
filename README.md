@@ -1,3 +1,3 @@
-![abdurahman-harouat's Stats](https://github-readme-stats.vercel.app/api?username=abdurahman-harouat&theme=default&show_icons=true&hide_border=false&count_private=true)
-![abdurahman-harouat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdurahman-harouat&theme=default&hide_border=false)
-![abdurahman-harouat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahman-harouat&theme=default&show_icons=true&hide_border=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurahman-harouat&show_icons=true&locale=en" alt="abdurahman-harouat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurahman-harouat&" alt="abdurahman-harouat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurahman-harouat&show_icons=true&locale=en&layout=compact" alt="abdurahman-harouat" /></p>
